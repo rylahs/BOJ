@@ -1,6 +1,6 @@
 // BOJ 1001
 // A - B
-// µÎ Á¤¼ö A¿Í B¸¦ ÀÔ·Â ¹ÞÀº ´ÙÀ½ A - B¸¦ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+// ë‘ ì •ìˆ˜ Aì™€ Bë¥¼ ìž…ë ¥ ë°›ì€ ë‹¤ìŒ A - Bë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ìž‘ì„±í•˜ì‹œì˜¤.
 // https://www.acmicpc.net/problem/1001
 
 #include <bits/stdc++.h>
@@ -14,6 +14,5 @@ int main(void)
 	int a, b;
 	cin >> a >> b;
 	cout << a - b;
-
 	return 0;
 }
