@@ -1,10 +1,9 @@
 // BOJ 1000
 // A + B
-// µÎ Á¤¼ö A¿Í B¸¦ ÀÔ·Â ¹ŞÀº ´ÙÀ½ A + B¸¦ Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ÀÛ¼ºÇÏ½Ã¿À.
+// ë‘ ì •ìˆ˜ Aì™€ Bë¥¼ ì…ë ¥ ë°›ì€ ë‹¤ìŒ A + Bë¥¼ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ë¨ì„ ì‘ì„±í•˜ì‹œì˜¤.
 // https://www.acmicpc.net/problem/1000
 #include <bits/stdc++.h>
 using namespace std;
-
 int main(void)
 {
 	ios::sync_with_stdio(false);
