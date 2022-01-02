@@ -1,5 +1,5 @@
 // BOJ 1002
-// ÅÍ·¿
+// í„°ë ›
 // https://www.acmicpc.net/problem/1002
 
 #include <bits/stdc++.h>
@@ -10,9 +10,8 @@ int main(void)
 	ios::sync_with_stdio(false);
 	cin.tie(nullptr);
 
-	vector<tuple<int, int, int>> v; // #inclue <tuple> À» ¿¬½ÀÇÏ±â À§ÇÑ ÄÚµå
-									// Á÷°ü¼º¸¸ µûÁö¸é º¯¼ö ¼±¾ğÇÏ´Â °ÍÀÌ ¹®Á¦ Ç®±â ´õ ÁÁ´Ù.
-
+	vector<tuple<int, int, int>> v; // #inclue <tuple> ì„ ì—°ìŠµí•˜ê¸° ìœ„í•œ ì½”ë“œ
+									// ì§ê´€ì„±ë§Œ ë”°ì§€ë©´ ë³€ìˆ˜ ì„ ì–¸í•˜ëŠ” ê²ƒì´ ë¬¸ì œ í’€ê¸° ë” ì¢‹ë‹¤.
 	int testCase;
 	cin >> testCase;
 	while (testCase--)
@@ -29,9 +28,9 @@ int main(void)
 
 		if (x1 == x2 && y1 == y2)
 		{
-			if (r1 == r2) // ¿ÏÀüÈ÷ Á¡ÀÌ ÀÏÄ¡ÇÏ°í °Å¸®µµ °°À¸¸é Áßº¹ÀÌ °è¼ÓµÇ¹Ç·Î ¹«ÇÑ´ë
+			if (r1 == r2) // ì™„ì „íˆ ì ì´ ì¼ì¹˜í•˜ê³  ê±°ë¦¬ë„ ê°™ìœ¼ë©´ ì¤‘ë³µì´ ê³„ì†ë˜ë¯€ë¡œ ë¬´í•œëŒ€
 				cout << -1;
-			else // ÁÂÇ¥´Â °°Àºµ¥ °Å¸®°¡ ´Ù¸£¸é ÀÏÄ¡ÇÏ´Â ÁÂÇ¥°¡ ¾øÀ½
+			else // ì¢Œí‘œëŠ” ê°™ì€ë° ê±°ë¦¬ê°€ ë‹¤ë¥´ë©´ ì¼ì¹˜í•˜ëŠ” ì¢Œí‘œê°€ ì—†ìŒ
 				cout << 0;
 		}
 		else
@@ -39,15 +38,14 @@ int main(void)
 			int min = abs(r1 - r2);
 			double distancemult = sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
 
-			if (distancemult < (r1 + r2) && distancemult > min) // À½¼ö È¤Àº Àı´ë°ª
+			if (distancemult < (r1 + r2) && distancemult > min) // ìŒìˆ˜ í˜¹ì€ ì ˆëŒ€ê°’
 				cout << 2;
-			else if (distancemult == r1 + r2 || distancemult == min) // À½¼ö È¤Àº Àı´ë°ª°ú ÀÏÄ¡ÇÏ¸é ÁÂÇ¥´Â 1°³
+			else if (distancemult == r1 + r2 || distancemult == min) // ìŒìˆ˜ í˜¹ì€ ì ˆëŒ€ê°’ê³¼ ì¼ì¹˜í•˜ë©´ ì¢Œí‘œëŠ” 1ê°œ
 				cout << 1;
-			else // ±× ¿Ü¿¡´Â 0
+			else // ê·¸ ì™¸ì—ëŠ” 0
 				cout << 0;
 		}
 		cout << '\n';
 	}
-
 	return 0;
 }
