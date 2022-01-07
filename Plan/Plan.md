@@ -1,6 +1,6 @@
 # Current Study Plan
 
-[현재 스터디 자료 : BaaaaaaaarkingDog](https://blog.encrypted.gg/919?category=773649)
+[현재 스터디 자료 : BaaaaaaaarkingDog](https://blog.encrypted.gg/919?category=773649)        
 [기본 이론 YouTube Play List : BaaaaaaaarkingDog](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)  
   
 # 현재 학습 진행도
