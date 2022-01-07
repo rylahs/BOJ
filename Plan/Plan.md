@@ -3,6 +3,8 @@
 [현재 스터디 자료 : BaaaaaaaarkingDog](https://blog.encrypted.gg/919?category=773649)        
 [기본 이론 YouTube Play List : BaaaaaaaarkingDog](https://www.youtube.com/watch?v=LcOIobH7ues&list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)  
   
+Last Update Date : 2022.01.07 13:37
+  
 # 현재 학습 진행도
 0x00. 오리엔테이션  
 ![100%](https://progress-bar.dev/10/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  
