@@ -7,9 +7,9 @@ Last Update Date : 2022.01.07 13:37
   
 # 현재 학습 진행도
 0x00. 오리엔테이션  
-![100%](https://progress-bar.dev/10/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  
+![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x01. 기초 코드 작성 요령 I  
-![100%](https://progress-bar.dev/10/?scale=10&title=progress&width=500&color=babaca&suffix=/10)  
+![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x02. [기초 코드 작성 요령 II](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x02.md)  
 ![100%](https://progress-bar.dev/27/?scale=27&title=progress&width=500&color=babaca&suffix=/27)  
 0x03. [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md)  
