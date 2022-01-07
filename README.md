@@ -8,5 +8,7 @@ PS(Problem Solved) Improved skill.
 [현재 학습 현황](Plan/Plan.md)
 
 User : [miusha](https://www.acmicpc.net/user/miusha)
+  
+Grade : [Gold V](https://solved.ac/profile/miusha)
 
 Last commit 2022.01.07
