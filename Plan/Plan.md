@@ -7,7 +7,7 @@ Last Update Date : 2022.01.07 13:37
   
 # 현재 학습 진행도  
 한눈에 보기    
-![100%](https://progress-bar.dev/102/?scale=381&title=progress&width=500&color=babaca&suffix=/381)      
+![100%](https://progress-bar.dev/102/?scale=390&title=progress&width=500&color=babaca&suffix=/390)      
 0x00. 오리엔테이션  
 ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x01. 기초 코드 작성 요령 I  
@@ -61,7 +61,8 @@ Last Update Date : 2022.01.07 13:37
 ![100%](https://progress-bar.dev/0/?scale=13&title=progress&width=500&color=babaca&suffix=/13)  
 0x1A. [위상정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)  
 ![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)  
-0x1B. 최소 신장 트리  
+0x1B. [최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)    
+![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)  
 0x1C. 플로이드 알고리즘  
 0x1D. 다익스트라 알고리즘  
 0x1E. KMP 알고리즘  
