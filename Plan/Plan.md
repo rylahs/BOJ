@@ -7,7 +7,7 @@ Last Update Date : 2022.01.07 13:37
   
 # 현재 학습 진행도  
 한눈에 보기    
-![100%](https://progress-bar.dev/176/?scale=391&title=progress&width=500&color=babaca&suffix=/391)      
+![100%](https://progress-bar.dev/176/?scale=420&title=progress&width=500&color=babaca&suffix=/420)      
 0x00. 오리엔테이션  
 ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x01. 기초 코드 작성 요령 I  
@@ -62,9 +62,11 @@ Last Update Date : 2022.01.07 13:37
 0x1A. [위상정렬](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1A.md)  
 ![100%](https://progress-bar.dev/0/?scale=7&title=progress&width=500&color=babaca&suffix=/7)  
 0x1B. [최소 신장 트리](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1B.md)    
-![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)  
-0x1C. 플로이드 알고리즘  
-0x1D. 다익스트라 알고리즘  
+![100%](https://progress-bar.dev/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9)    
+0x1C. [플로이드 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1C.md)    
+![100%](https://progress-bar.dev/0/?scale=15&title=progress&width=500&color=babaca&suffix=/15)    
+0x1D. [다익스트라 알고리즘](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1D.md)     
+![100%](https://progress-bar.dev/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14)    
 0x1E. KMP 알고리즘  
 0x1F. 트라이  
 0x20. 동적 배열  
