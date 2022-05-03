@@ -10,7 +10,7 @@ PS(Problem Solved) Improved skill.
 User : [miusha](https://www.acmicpc.net/user/miusha)
   
 Grade : [Gold II](https://solved.ac/profile/miusha)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=miusha)](https://solved.ac/miusha)
 Problem Solved : 368
 
 Last commit 2022.05.03
