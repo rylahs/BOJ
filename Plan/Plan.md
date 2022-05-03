@@ -7,7 +7,7 @@ Last Update Date : 2022.05.03 22:37
   
 # 현재 학습 진행도  
 한눈에 보기    
-![100%](https://progress-bar.dev/176/?scale=420&title=progress&width=500&color=babaca&suffix=/420)      
+![100%](https://progress-bar.dev/184/?scale=423&title=progress&width=500&color=babaca&suffix=/423)      
 0x00. 오리엔테이션  
 ![100%](https://progress-bar.dev/1/?scale=1&title=progress&width=500&color=babaca&suffix=/1)  
 0x01. 기초 코드 작성 요령 I  
