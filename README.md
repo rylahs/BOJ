@@ -9,8 +9,8 @@ PS(Problem Solved) Improved skill.
 
 User : [miusha](https://www.acmicpc.net/user/miusha)
   
-Grade : [Gold III](https://solved.ac/profile/miusha)
+Grade : [Gold II](https://solved.ac/profile/miusha)
 
-Problem Solved : 339
+Problem Solved : 368
 
-Last commit 2022.04.10
+Last commit 2022.05.03
